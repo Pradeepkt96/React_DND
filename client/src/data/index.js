@@ -2,7 +2,7 @@ const data = [{
     id: 1,
     icon: "⭕️",
     status: "open",
-    title: "Application Form",
+    title: "Loan Interest Form",
     content: "Fill out Loan interest form"
 }, {
     id: 2,
@@ -14,14 +14,14 @@ const data = [{
     id: 3,
     icon: "⭕️",
     status: "open",
-    title: "Invest in investments",
-    content: "Call the bank to ask about investments"
+    title: "Invest in Bank",
+    content: "Call the bank to enquire about investments"
 }, {
     id: 4,
     icon: "⭕️",
     status: "open",
-    title: "Weekly Meet",
-    content: "Plan a meeting with friends on Weekend"
+    title: "Daily reading",
+    content: "Finish reading headlines of Newspaper"
 }];
 
 const statuses = [{
@@ -39,7 +39,7 @@ const statuses = [{
 }, {
     status: "done",
     icon: "✅",
-    color: "#33FF64"
+    color: "#008000"
 }];
 
 export { data, statuses };

@@ -1,4 +1,4 @@
-# React Drag n Drop Trello Dashboard
+# React Drag n Drop Tutorial 
 
 ## Installation
 
